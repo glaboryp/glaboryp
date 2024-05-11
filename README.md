@@ -30,6 +30,4 @@
 
 ## Contacta conmigo
 
-[Linkedin](https://www.linkedin.com/in/gloria-labory-663359144/)
-
-[Twitter](https://twitter.com/GloriaLabory)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-labory-663359144/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GloriaLabory)

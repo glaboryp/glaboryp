@@ -43,8 +43,8 @@ Desarrolladora Full-Stack enfocada en transformar ideas en soluciones web robust
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaboryp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaboryp&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="./github-stats.svg"/>
+  <img height="180em" src="./top-langs.svg"/>
 </p>
 
 ## 📫 Contacta Conmigo

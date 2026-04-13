@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Se ejecuta a las 3 AM cada día
-  workflow_dispatch: # Permite ejecución manual para pruebas
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,7 +21,6 @@ jobs:
         with:
           card: stats
           path: github-stats.svg
-          # Usamos tus parámetros exactos de la URL
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,9 +28,8 @@ jobs:
       - name: Generate languages card
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          card: langs
+          card: top-langs # <--- Esta es la corrección
           path: top-langs.svg
-          # Usamos tus parámetros exactos de la URL
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=dracula
           token: ${{ secrets.GITHUB_TOKEN }}
 

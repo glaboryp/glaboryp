@@ -28,7 +28,7 @@ jobs:
       - name: Generate languages card
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          card: top-langs # <--- Esta es la corrección
+          card: top-langs
           path: top-langs.svg
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=dracula
           token: ${{ secrets.GITHUB_TOKEN }}

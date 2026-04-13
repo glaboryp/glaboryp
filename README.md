@@ -6,7 +6,7 @@ Desarrolladora Full-Stack enfocada en transformar ideas en soluciones web robust
 - 🌱 Profundizando mis conocimientos en Arquitectura de Software y explorando el ecosistema de [Astro](https://astro.build/).
 - 💜 Contribuyo activamente a proyectos Open Source porque creo en el poder de la comunidad.
 - 📫 Cómo contactarme: [glabory@gmail.com](glabory@gmail.com)
-- 💻 Hecha un ojo a mi [portfolio](https://glorialabory.vercel.app/)
+- 💻 Hecha un ojo a mi [portfolio](https://www.glorialabory.dev/)
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">

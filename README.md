@@ -36,7 +36,7 @@ Desarrolladora Full-Stack enfocada en transformar ideas en soluciones web robust
 
 | Proyecto | Stack | Repositorio | Demo |
 |---|---|---|---|
-| **Fontray** - Una aplicación web para identificación de fuentes tipográficas. | Vue 3, Laravel, PostgreSQL | [Ver Repositorio](https://github.com/glaboryp/fontray) | [Demo en vivo](https://fontray.onrender.com/) |
+| **Fontray** - Una aplicación web para identificación de fuentes tipográficas. | Vue 3, Laravel, PostgreSQL | [Ver Repositorio](https://github.com/glaboryp/fontray) | [Demo en vivo](https://fontray.dpdns.org/) |
 | **AulaLens** - Dashboard de analítica estratégica para Google Classroom. | Nuxt, TypeScript, Tailwind CSS | [Ver Repositorio](https://github.com/glaboryp/AulaLens) | [Demo en vivo](https://aula-lens.vercel.app) |
 | **DocuPrism** - PWA que ofrece análisis de texto mediante IA directamente en el navegador. 100% de privacidad y sin conexión a internet. | Nuxt, TypeScript, PWA, Tailwind CSS | [Ver Repositorio](https://github.com/glaboryp/DocuPrism) | [Demo en vivo](https://docuprism.vercel.app/) |
 
